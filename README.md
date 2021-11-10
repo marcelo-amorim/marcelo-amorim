@@ -6,8 +6,6 @@
 I'm Marcelo, a knowledge avid developer, lover of JavaScript :)
 
 
-- 🔭 I’m currently working on making Nexoos the best fintech in Brazil, the best place I could ever work at
-- 🌱 I’m currently learning Ruby on Rails 
 - 💬 Ask me about anything!
 - 📫 How to reach me: message me at marcelo.brasil.amorim@gmail.com
 
