@@ -3,8 +3,4 @@
 
 ### Hi there 👋
 
-I'm Marcelo, a knowledge avid developer, lover of JavaScript :)
-
-
-- 💬 Ask me about anything!
-- 📫 How to reach me: message me at marcelo.brasil.amorim@gmail.com
+I'm Marcelo, I love programming
